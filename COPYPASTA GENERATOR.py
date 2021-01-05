@@ -1,3 +1,9 @@
+''' 
+Finding the password is too easy if you know Python
+(Thanks senpai Sam Miller for noticing this piece of crap)
+'''
+
+
 __okayu__ = 'MOGU MOGU OKAYU!!!'
 __korone__ = 'YUBI YUBI'
 
